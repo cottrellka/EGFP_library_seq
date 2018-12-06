@@ -1,2 +1,2 @@
-Scripts used in Manasvii et al, 2018 Manuscript
+Scripts used in Verma et al, 2018 Manuscript
 
